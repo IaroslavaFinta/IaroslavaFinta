@@ -6,21 +6,18 @@
 
 I'm Iaroslava Finta
 
-- :telescope:  Fullstack Developer Developer
+- :woman_technologist:  Fullstack Developer Developer
 
-- :seedling:  I'm based in Dallas, Texas, USA
+- :earth_americas: I'm based in Dallas, Texas, USA
 
-- :zap: I'm learning TailwindCSS, TypeScript
+- :brain: I'm learning TailwindCSS, TypeScript
 
 - :mailbox: How to reach me:
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp; (www.linkedin.com/in/iaroslavafinta)
+- <a href="www.linkedin.com/in/iaroslavafinta">My LinKedIn</a>
 
 ### :hammer_and_wrench: Languages and Tools :
 
-HTML5 CSS3 Javascript React git Figma NodeJS SQL Java C#
-
 <div>
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
