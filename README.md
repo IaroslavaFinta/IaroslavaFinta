@@ -12,7 +12,8 @@ I'm Iaroslava Finta
 
 - :zap: I'm learning TailwindCSS, TypeScript
 
-- :mailbox: How to reach me: (https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linkedin/linkedin-original.svg) (www.linkedin.com/in/iaroslavafinta)
+- :mailbox: How to reach me:
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp; (www.linkedin.com/in/iaroslavafinta)
 
 ### :hammer_and_wrench: Languages and Tools :
 
