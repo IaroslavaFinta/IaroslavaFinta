@@ -12,7 +12,7 @@ I'm Iaroslava Finta
 
 - :brain: I'm learning TailwindCSS, TypeScript
 
-- :mailbox: How to reach me: <a href="www.linkedin.com/in/iaroslavafinta">My LinKedIn</a>
+- :mailbox: How to reach me: <a href="https://www.linkedin.com/in/iaroslavafinta/">My LinKedIn</a>
 
 ### :hammer_and_wrench: Languages and Tools :
 
