@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.danielhonrade.com/wp-content/uploads/2020/09/Web-development-1.jpg" 
+  <img src="https://www.mtu.edu/cs/undergraduate/software/what/images/software-engineering-banner2400.jpg" 
     width="600" height="300"/>
 </div>
 
