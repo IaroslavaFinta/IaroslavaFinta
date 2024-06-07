@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://media4.giphy.com/media/vi9q6kkhLiJVx3L8TO/200w.webp](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhello-dribbble-by-chlo-chassany--717268678168057748%2F&psig=AOvVaw2tFgkkLiGjWofFjF04DaUU&ust=1717807310759000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDqr4ihyIYDFQAAAAAdAAAAABAE)" 
+  <img src="https://media4.giphy.com/media/vi9q6kkhLiJVx3L8TO/200w.webp](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhello-dribbble-by-chlo-chassany--717268678168057748%2F&psig=AOvVaw2tFgkkLiGjWofFjF04DaUU&ust=1717807310759000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDqr4ihyIYDFQAAAAAdAAAAABAE" 
     width="600" height="300"/>
 </div>
 
