@@ -7,11 +7,11 @@
 
 I'm Iaroslava Finta
 
-- :woman_technologist:  Fullstack Developer Developer
+- :woman_technologist:  Software QA Engineer 
 
 - :earth_americas: I'm based in Dallas, Texas, USA
 
-- :brain: I'm learning TailwindCSS, TypeScript
+- :brain: I'm learning Java, Python, TailwindCSS, TypeScript
 
 - :mailbox: How to reach me: <a href="https://www.linkedin.com/in/iaroslavafinta/">My LinKedIn</a>
 
@@ -27,6 +27,8 @@ I'm Iaroslava Finta
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" itle="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/jsa4000/Apache-JMeter-Toolkit/blob/master/files/icons/apache_jmeter_iWm_10.ico" title="JMeter" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>
