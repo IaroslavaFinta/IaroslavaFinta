@@ -11,7 +11,7 @@ I'm Iaroslava Finta
 
 - :earth_americas: I'm based in Dallas, Texas, USA
 
-- :brain: I'm learning Java, Python, TailwindCSS, TypeScript
+- :brain: I'm learning Java, Python
 
 - :mailbox: How to reach me: <a href="https://www.linkedin.com/in/iaroslavafinta/">My LinKedIn</a>
 
